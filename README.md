@@ -31,5 +31,4 @@ Główna klasa programu
 4. rezerwuj bilety - rezerwuje bilety
 5. anuluj rezerwacje - uruchamia skrypt do anulowania rezerwacji
 
-## Autor: Michał Łukasik, 03.11.2025 
-### Ostatnia aktualizacja odbyła się siedemnastego dnia listopada Roku Pańskiego (Anno Domini) (Po Chińsku: After Christ) dwatysiące dwudziestego piątego o godzinie trzynastej czterdzieści jeden czasu Centralno Europejskiego
+## Autor: Paweł Maśka, 01.12.2025 
